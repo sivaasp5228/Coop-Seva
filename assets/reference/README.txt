@@ -1,0 +1,1 @@
+Original embedded UI reference images extracted from the supplied PPT. They are retained for visual reference; the app uses cropped versions in assets/ui/.
